@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic Tac Toe AI
 
 A basic implementation of the minimax algorithm to solve a game of Tic Tac Toe.
 
